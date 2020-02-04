@@ -2,4 +2,4 @@
 
 # 1. MNIST
 # 2. Fashion MNIST
-# 3. Cifat10
+# 3. Cifar10
